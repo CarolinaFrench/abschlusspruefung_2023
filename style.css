@@ -1209,7 +1209,7 @@ td > span:first-child{
     width: 49%;
 }
 
-@media screen and (max-width:575px){
+@media screen and (max-width:780px){
     .form_field-row > label{
     width: 100%;
 }

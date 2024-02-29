@@ -1244,7 +1244,7 @@ label.is-special.is-active span {
 .label_row {
     display: flex;
     align-items: center;
-    white-space: nowrap;
+    
 } 
 
 .form_field_group.is-date-picker{

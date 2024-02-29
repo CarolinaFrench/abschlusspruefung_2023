@@ -1216,6 +1216,13 @@ td > span:first-child{
 }
 
 .form_field-row > label span {
+    border: 1px solid #d9e0e8;
+  padding: .75em 1.5em;
+  border-radius: 2em;
+  background-color: #fff;
+  width: 100%;
+  display: flex;
+  align-items: center;
 }
 
 label.is-special span {

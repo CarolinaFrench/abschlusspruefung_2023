@@ -257,6 +257,7 @@ a.button, input.button{
     margin-top: 2.5em;
     transition: 0.3s;
     letter-spacing: 1px;
+    -webkit-appearance: none;
 }
 
 a.button:hover, input.button:hover{
@@ -1328,6 +1329,7 @@ input, .form_field > select{
     width:100%;
     box-sizing: border-box;
     border-radius: 50px;
+    -webkit-appearance: none;
 }
 
 label{

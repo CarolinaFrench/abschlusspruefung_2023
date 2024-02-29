@@ -1763,6 +1763,7 @@ input, .form_field > select.salutation {
 .form_field.number_field{
     display: flex;
     flex-direction: row;
+    margin-bottom: 1.5rem;
 }
 .form_field.number_field > label{
     width:50%;

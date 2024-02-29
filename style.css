@@ -1446,6 +1446,12 @@ input[type="radio"]:checked::before {
     width: 49%;
 }
 
+@media screen and (max-width: 875px){
+    .option_list > label {
+    width: 100%;
+}
+}
+
 .option_list.bewirtung .two_columns {
     display: flex;
     flex-wrap: wrap;

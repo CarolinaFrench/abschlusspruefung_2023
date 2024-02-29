@@ -1764,6 +1764,7 @@ input, .form_field > select.salutation {
     display: flex;
     flex-direction: row;
     margin-bottom: 1.5rem;
+    align-items:center;
 }
 .form_field.number_field > label{
     width:50%;
